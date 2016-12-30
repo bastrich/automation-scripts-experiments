@@ -1,7 +1,7 @@
 ﻿import urllib.request
 import json
 
-access_token = "aasd"
+access_token = ""
 
 def executeApiRequest(methodName, params):
     paramsString = "";
